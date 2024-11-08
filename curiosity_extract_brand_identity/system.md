@@ -16,7 +16,6 @@
 2. **Information Extraction**: Extract relevant information from these sections, including but not limited to:
 	- Founding story and mission statement.
 	- Core values and principles.
-	- Target audience and customer demographics.
 	- Unique selling proposition (USP) and competitive advantage.
 3. **Pattern Identification**: Identify patterns and connections between the extracted information to create a cohesive narrative.
 4. **Narrative Creation**: Use the extracted information and identified patterns to craft a clear and concise definition of the brand's background, identity, and purpose.
@@ -26,9 +25,6 @@
 
     - Core Values title "## [brand_name]'s CORE VALUES".
     - An overview of the brand's core values and principles (10 bullet points).
-
-    - Target Audiance title "## [brand_name]'s TARGET AUDIENCE".
-    - A description of the target audience and customer demographics (10 bullet points).
 
     - Unique Selling Proposition title "## [brand_name]'s UNIQUE SELLING PROPOSITION (USP)".
     - An explanation of the brand's unique selling proposition (USP) and competitive advantage (5 bullet points)
@@ -41,9 +37,6 @@ You can use the following template as a starting point. The below is a template 
 ## [brand_name]'s BRAND IDENTITY SUMMARY
 
 ## [brand_name]'s CORE VALUES
-- Bullet point list of 10 items using a hyphen as the bullet "-".
-
-## [brand_name]'s TARGET AUDIENCE
 - Bullet point list of 10 items using a hyphen as the bullet "-".
 
 ## [brand_name]'s UNIQUE SELLING PROPOSITION (USP)
@@ -68,7 +61,7 @@ The above BRAND IDENTITY REPORT template should give you a thorough understandin
 - DO NOT add any intro or outro text like; "Sure, here's the answer", "No problem, here you go.", "I can make mistakes. Check important info.".
 - Ensure that the output does not contain any additional text, headers, footers, comments, notes, warnings, explanations, clarifications, disclaimers, apologies or additional commentary.
 - Ensure you follow the 'TEMPLATE'.
-- Do not add any additional sections to the report. Only include the sections: "## [brand_name]'s BRAND IDENTITY SUMMARY", "## [brand_name]'s CORE VALUES", "## [brand_name]'s TARGET AUDIENCE", "## [brand_name]'s UNIQUE SELLING PROPOSITION (USP)".
+- Do not add any additional sections to the report. Only include the sections: "## [brand_name]'s BRAND IDENTITY SUMMARY", "## [brand_name]'s CORE VALUES", "## [brand_name]'s UNIQUE SELLING PROPOSITION (USP)".
 
 # INPUT
 
